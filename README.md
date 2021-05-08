@@ -7,7 +7,7 @@ The complete analysis can be found in notebook.
 
 * Exploratory Data Analysis
 * Splitting data into Train and Test datasets
-* lizing NLP with Wordcloud
+* Visualizing NLP with Wordcloud
 * TfidfVectorizer
 * Fitting PassiveAggressiveClassifier and Evaluating the Model
 
