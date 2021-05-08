@@ -9,9 +9,10 @@ The complete analysis can be found in notebook.
 * TfidfVectorizer
 * Fitting PassiveAggressiveClassifier and Evaluating the Model
 
-# Fake News Detection data analysis:
+## Fake News Detection data analysis:
 
 From the word clouds we can conclude that there are lot of real and fake news about Donald Trump and Clinton. We have classified our news data using PassiveAggressiveClassifier classification model. We have analysed the performance of the model using accuracy and confusion matrix.
 
-# Application of Flask to create a WebApp
+## Application of Flask to create a WebApp
 Flask enabled us to predict whether the news is fake or real.This project is just for understanding purpose, don't think, it can do work in real time, because model was trained on historic & limited data.For real time building of this kind of system, we need updated dataset and we need to build a model in particular interval of time, because news data can be updated in seconds, so our model should be also updated with the data.
+
